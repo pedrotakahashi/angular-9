@@ -1,0 +1,24 @@
+{
+    "produtos" :[
+        {
+            "id" : 1,
+            "name" : "caneta bit azul",
+            "price" : 2.00
+        },
+        {
+            "id" : 2,
+            "name" : "caneta bit vermelha",
+            "price" : 2.00
+        },
+        {
+            "id" : 3,
+            "name" : "caneta bit preta",
+            "price" : 2.00
+        },
+        {
+            "id" : 4,
+            "name" : "lapiseira 0.7mm",
+            "price" : 10.00
+        }
+    ]
+}
