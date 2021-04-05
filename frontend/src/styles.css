@@ -8,3 +8,12 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     vertical-align: middle;
     padding-bottom: 4px;
 }
+
+.msg-success{
+    background-color: #28a745;
+    color: #Fff;
+}
+.msg-error{
+    background-color: #d64450;
+    color: #Fff;
+}

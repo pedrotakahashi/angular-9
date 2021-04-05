@@ -1,24 +1,44 @@
 {
-    "produtos" :[
-        {
-            "id" : 1,
-            "name" : "caneta bit azul",
-            "price" : 2.00
-        },
-        {
-            "id" : 2,
-            "name" : "caneta bit vermelha",
-            "price" : 2.00
-        },
-        {
-            "id" : 3,
-            "name" : "caneta bit preta",
-            "price" : 2.00
-        },
-        {
-            "id" : 4,
-            "name" : "lapiseira 0.7mm",
-            "price" : 10.00
-        }
-    ]
+  "produtos": [
+    {
+      "id": 1,
+      "name": "caneta bic azul",
+      "price": 2
+    },
+    {
+      "id": 2,
+      "name": "caneta bic vermelha",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "name": "caneta bic preta",
+      "price": 2
+    },
+    {
+      "id": 4,
+      "name": "lapiseira 0.7mm",
+      "price": 10
+    },
+    {
+      "name": "Produto teste",
+      "price": 125.99,
+      "id": 5
+    },
+    {
+      "name": "Novo Produto",
+      "price": "25.75",
+      "id": 6
+    },
+    {
+      "name": "Garrafa de agua 2L",
+      "price": "5.55",
+      "id": 7
+    },
+    {
+      "name": "Teste Produto novo",
+      "price": "1.99",
+      "id": 8
+    }
+  ]
 }
